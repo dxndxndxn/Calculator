@@ -1,0 +1,3 @@
+/Users/dxn/Desktop/Calculator/build/CMakeFiles/a.dir
+/Users/dxn/Desktop/Calculator/build/CMakeFiles/edit_cache.dir
+/Users/dxn/Desktop/Calculator/build/CMakeFiles/rebuild_cache.dir
